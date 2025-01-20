@@ -13,7 +13,7 @@ This repository contains the files and analysis related to Data Analytics - Task
 + Tools and Technologies Used:
   + Languages and Libraries: Python (pandas, numpy)
   + Data Visualization: Power BI
-+ File Formats: .pbix for dashboards, .csv for datasets, .pdf for documentation
++ File Formats: .pbix for dashboards, .csv for datasets, .pdf for documentation, and PowerPoint slides.
 ## Key Results
 + Data Visualization: Interactive dashboards for intuitive analysis of key trends.
 + Insights: Data-driven conclusions supported by visual and statistical evidence.
